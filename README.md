@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matjaž Vidmar</h1>
-<h3 align="center">Full-stack Web Developer in training with Research Background</h3>
+<h3 align="center">Front-end Web Developer with Research Background</h3>
 
 - 👨‍💻 @Upleveled Vienna bootcamp graduate
 
 - 📖 Studied German and Sinology, PhD in Asian Studies - Sinology
 
-- 🔭 Currently working on [Sports Meet-up App](https://github.com/matjaz-vidmar/final-project-sports-app)
+- 🔭 Before moving to the US worked at Mediashop.tv in Austria https://www.mediashop.tv
 
 - 🌱 Currently learning **UX Research and Design, React Native**
 
