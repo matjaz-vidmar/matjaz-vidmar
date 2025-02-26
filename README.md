@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **wei.majiang@gmail.com**
+- 📫 How to reach me **vidmar.matjaz@outlook.com**
 
 - ⚡ Fun fact **I love movies, reading, traveling and foreign languages.**
 
